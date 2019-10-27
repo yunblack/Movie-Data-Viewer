@@ -3,6 +3,7 @@
 I made a software program that shows a particular statistics requested by a user. The program is developed in Python language using PyCharm IDE. The data presented in this is taken from The Movies Dataset1 made available by Rounak Banik on Kaggle – which is an online community of data scientists. These files contain metadata for about 45,000 movies
 released on or before July 2017. Some information about movies in production or planned is given as well. We will use a file named movies_metadata from this dataset that contains information on the following:
 
+
 1) adult: TRUE/FALSE
 2) genres: Zero or multiple genres. It can be considered as a list of dictionaries in Python. E.g. [{'id':
 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}]
